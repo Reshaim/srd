@@ -1,0 +1,25 @@
+title: Cepheus Engine SRD - Italiano
+email: ""
+description: "Benvenuti nel progetto di traduzione di Cepheus Engine, 
+il Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell'Era Classica! 
+Cepheus Engine e Samardan Press sono marchi registrati di Jason Flynn Kemp"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cepheus-engine-ita.github.io/srd" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username: cepheus-engine-ita
+
+# search parameters
+search_enabled: true
+search:
+     heading_level: 3
+
+aux_links:
+  "Cepheus Engine ITA su GitHub":
+    - "//github.com/cepheus-engine-ita/srd"
+aux_links_new_tab: true
+
+# Build settings
+markdown: kramdown
+theme: just-the-docs
+plugins:
+  - jekyll-feed
