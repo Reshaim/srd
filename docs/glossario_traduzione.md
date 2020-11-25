@@ -31,7 +31,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | D66                        | D66                            |
 | Damage bonus               | Bonus di Danno                 |
 | Damage                     | Danno                          |
-| Dice modifier (DM)         | Modificatore ai Dadi           |
+| Dice modifier (DM)         | Modificatore ai Dadi (MD)      |
 | Die                        | Dado                           |
 | Dice                       | Dadi                           |
 | Difficulty                 | Difficoltà                     |
