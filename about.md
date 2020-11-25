@@ -9,7 +9,7 @@ nav_order: 0
 
 **Revisione**: Jeff Hopper
 
-**Versione italiana**: Roberto Bisceglie
+**Versione italiana**: Roberto Bisceglie, Luca Volpino
 
 **Designazione di Open Game Content**
 
