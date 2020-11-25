@@ -9,28 +9,28 @@ nav_order: 5
 
 ***La seguente è una nota importante***:
 
-Questo Prodotto è derivato dal Traveller System Reference Document e altro Open Gaming Content reso disponibile attraverso la Open Gaming License e non contiene contenuto chiuso da prodotti pubblicati né da Mongoose Publishing né da Far Future Enterprises. Questo Prodotto non è affilliato né da Mongoose Publishing né da Far Future Enterprises e non rivendica né contesta alcun marchiodetenute da una delle due entità. L'uso del Traveller System Reference Document non esprime l'approvazione di questo prodotto né da parte di Mongoose Publishing né di Far Future Enterprises come prodotto di alcuna delle loro linee di prodotti.
+Questo Prodotto è derivato dal Traveller System Reference Document e altro Open Gaming Content reso disponibile attraverso la Open Gaming License e non contiene contenuto chiuso da prodotti pubblicati né da Mongoose Publishing né da Far Future Enterprises. Questo Prodotto non è affilliato né da Mongoose Publishing né da Far Future Enterprises e non rivendica né contesta alcun marchio detenuto da una delle due entità. L'uso del Traveller System Reference Document non esprime l'approvazione di questo prodotto né da parte di Mongoose Publishing né di Far Future Enterprises come prodotto di alcuna delle loro linee di prodotti.
 
 ## Pubblicare i propri materiali
 
-Come puoi notare all'inizio di questo System Reference Document, tutti i testi in questo documento sono designati come Open Gaming Content, fatta eccezione per i titoli dei prodotti pubblicati da Samardan Press e i marchi registrati "Cepheus Engine" e "Samardan Press".
+Come puoi notare dall'inizio di questo System Reference Document, tutti i testi in questo documento sono designati come Open Gaming Content, fatta eccezione per i titoli dei prodotti pubblicati da Samardan Press e i marchi registrati "Cepheus Engine" e "Samardan Press".
 
-Questo significa che puoi copiare qualunque parte del Cepheus Engine, aggiungere del tuo contenuto, cambiare il contenuto in qualsiasi parte e pubblicare il risultato. Note che devi ottemperare alla Open Gaming License, come riprodotta alla fine di questo documento. Se non menzioni nessun marchio registrato, non devi fare nient'altro.
+Questo significa che puoi copiare qualunque parte del Cepheus Engine, aggiungere del tuo contenuto, cambiare il contenuto in qualsiasi parte e pubblicare il risultato. Nota che devi ottemperare alla Open Gaming License, come riprodotta alla fine di questo documento. Se non menzioni nessun marchio registrato, non devi fare nient'altro.
 
-Comunque, puoi usare il marchio "Cepheus Engine", sotto determinate circostanze, per indicare compatibilità con questo sistema di regole. Devi seguire i requisiti del Cepheus Engine Compatibility-Statement License (CSL), ma se lo fai, puoi asserire che hai pubblicato materiale che "è compatibile con le regole di Cepheus Engine" o "con il gioco Cepheus Engine". 
+Comunque, puoi usare il marchio "Cepheus Engine", sotto determinate circostanze, per indicare compatibilità con questo sistema di regole. Devi seguire i requisiti del Cepheus Engine Compatibility-Statement License (CSL), ma se lo fai, puoi dichiarare che hai pubblicato materiale che "è compatibile con le regole di Cepheus Engine" o "con il gioco Cepheus Engine". 
 Questi sono i requisiti:
 
 ### Cepheus Engine Compatibility-Statement License (CSL)
 
-1. Devi dichiarare sulla prima pagina dove fai menzione di Cepheus Engine, che "Cepheus Engine e Samardan Press sono marchi registrati di Jason "Flynn" Kemp" e che non sei affiliato con Jason "Flynn" Kemp o Samardan Press™".
+1. Devi dichiarare sulla prima pagina dove fai menzione di Cepheus Engine, che "Cepheus Engine e Samardan Press sono marchi registrati di Jason "Flynn" Kemp" e che non sei affiliato "con Jason "Flynn" Kemp o Samardan Press™".
 
-2. Se stai usando la licenza per commettere frode, perdi il diritto di continuare a usare la licenza: specificamente, se dichiari compatibilità con le regole del Cepheus Engine, la dichiarazion non deve costituire frode, o incentivo fraudolento, sotto le leggi dello Stato del Texas. Nota che questo requisito è praticamente impossibile da violare non intenzionalmente - è inteso largamento per evitare all'autore problemi, non per restringere le dichiarazioni legittime di compatibilità.
+2. Se stai usando la licenza per commettere frode, perdi il diritto di continuare a usare la licenza: specificamente, se dichiari compatibilità con le regole del Cepheus Engine, la dichiarazione non deve costituire frode, o incentivo fraudolento, sotto le leggi dello Stato del Texas. Nota che questo requisito è praticamente impossibile da violare non intenzionalmente - è inteso largamente per evitare all'autore problemi, non per restringere le dichiarazioni legittime di compatibilità.
 
 3. Devi ottemperare ai termini della OGL se i termini si applicano.
 
-4. La copertina deve includere le parole "House Rules" o "Variante" o "Universo Alternativo Cepheus Engine" accanto al titolo se il documento è un gioco completo e sé stante che include modifiche. Sentiti libero di contattare l'autore se desideri usare una differente formula o disclaimer.
+4. La copertina deve includere le parole "House Rules" o "Variante" o "Universo Alternativo Cepheus Engine" accanto al titolo se il documento è un gioco completo e a sé stante che include modifiche. Sentiti libero di contattare l'autore se desideri usare una differente formula o disclaimer.
 
-5. Vender una versione completa di questo gioco con le tue regole personalizzate incorporate è perfettabile possibile, ma non devi vendere una copia effettivamente invariata delle regole per profitto.
+5. Vendere una versione completa di questo gioco con le tue regole personalizzate incorporate è perfettabile possibile, ma non devi vendere una copia effettivamente invariata delle regole per profitto.
 
 6. Se il tuo documento è una versione di regole personalizzate, non vendute per profitto, puoi scannerizzare e usare il materiale grafico (inclusa la copertina) dalla versione stampata, pubblicandola sotto il titolo di ***Cepheus Engine Regolamento Principale***, assunto che la copertina contenga le parole "Regole personalizzate", vicino al titolo e che all'artista sia correttamentemente attribuito il proprio lavoro.
 
